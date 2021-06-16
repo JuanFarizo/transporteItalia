@@ -6,6 +6,7 @@ transporteItalia/Output/*.pdf
 transporteItalia/Output/TransporteItalia.png
 transporteItalia/Output/pdfTransporteItalia.pdf
 transporteItalia/Output/transporteItalia.exe
+transporteItalia/Output/_PDFS
 Crc/Output/Historico/
 Crc/Output/mergePDF.exe
 Crc/Output/HelloWorld.pdf
